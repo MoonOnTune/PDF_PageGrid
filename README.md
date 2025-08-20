@@ -1,4 +1,4 @@
-# PDF-PageGrid
+# PDF_PageGrid
 
 Turn each PDF into **one** high‑quality image containing all its pages—perfect for thumbnails, previews, and archives.
 
